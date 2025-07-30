@@ -90,7 +90,7 @@ http://localhost:8080/ScopeListenerFilterDemo
 
 ## 7. Minh họa giao diện
 Trang Login<br>
-![Login](screenshots/login.png)
+![Login](screenshots/login.png)<br>
 Trang Scope<br>
 ![Scope](screenshots/scope.png)
 
