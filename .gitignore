@@ -1,0 +1,56 @@
+# Maven target directory
+/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~ 
+
+# Java compiled files
+*.class
+
+# Tomcat specific
+*.war
+*.ear
+
+# Environment config
+.env
+*.properties
+
+# Ignore screenshots folder (if you only want placeholders in repo, not actual screenshots)
+screenshots/*.png
+screenshots/*.jpg
+screenshots/*.jpeg
+
+# Ignore IDE metadata
+*.idea/
